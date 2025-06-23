@@ -1,7 +1,7 @@
 ## rtl8188eus v5.3.9
 
 
-# THESE DRIVERS IS DEPRECATED.
+# THESE DRIVERS ARE DEPRECATED.
 # Use the mac80211 drivers over at [https://github.com/lwfinger/rtw88](https://github.com/lwfinger/rtw88)
 
 
